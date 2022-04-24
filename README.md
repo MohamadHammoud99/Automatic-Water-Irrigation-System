@@ -46,15 +46,15 @@
   -	MPLAB X
   -	Proteus
   -	Components: 
-                o	PIC18F458	                              
-                o	2 Pumps	                                
-                o	Full & Empty Limit Switch sensors	      
-                o	Moisture & Temperature sensors	        
-                o	Keypad (4x3)
-                o	LCD (16x2)
-                o	Resistors
-                o	Battery
-                o	LEDs
-                o	Wires
+      o	PIC18F458	                              
+      o	2 Pumps	                                
+o	Full & Empty Limit Switch sensors	      
+o	Moisture & Temperature sensors	        
+o	Keypad (4x3)
+o	LCD (16x2)
+o	Resistors
+o	Battery
+o	LEDs
+o	Wires
 
 ![image](https://user-images.githubusercontent.com/85926752/164973658-c240ff05-5ad3-4d76-94a7-d58973eb0d5f.png)
