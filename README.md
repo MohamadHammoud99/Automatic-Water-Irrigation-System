@@ -50,7 +50,7 @@
                 o	2 Pumps	                                
                 o	Full & Empty Limit Switch sensors	      
                 o	Moisture & Temperature sensors	        
-                o	Keypad (4x3)	                         
+                o	Keypad (4x3)
                 o	LCD (16x2)
                 o	Resistors
                 o	Battery
